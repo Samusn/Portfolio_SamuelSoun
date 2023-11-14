@@ -17,6 +17,7 @@ body {
   background-repeat: no-repeat;
   background-position: center center;
   background-color: black;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 .animation {
@@ -162,7 +163,7 @@ header {
   .hobby_container p{
     text-align: justify;
     line-height: 150%;
-    font-size: 15px;
+    font-size: 20px;
   }
 
   /* goals */
@@ -194,7 +195,7 @@ header {
   .goals_container p{
     text-align: justify;
     line-height: 150%;
-    font-size: 15px;
+    font-size: 20px;
   }
 
   /* motivation */
@@ -226,7 +227,7 @@ header {
   .motivation_container p{
     text-align: justify;
     line-height: 150%;
-    font-size: 15px;
+    font-size: 20px;
   }
 
   .highlight {

@@ -29,6 +29,7 @@ body {
     color: white;
     min-height: 100vh;
     background-color: black;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 /* Home-button */
@@ -198,7 +199,7 @@ body {
 .skill_text p {
     text-align: justify;
     line-height: 150%;
-    font-size: 15px;
+    font-size: 20px;
 }
 
 
